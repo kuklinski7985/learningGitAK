@@ -26,6 +26,7 @@ int main (){
   }
 
   /*pointer work provided in question*/
+  /*adding comments to better learn git*/
   unsigned char *ptr = memArray;
 
   *ptr = 0xF1 & 127;
